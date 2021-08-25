@@ -17,7 +17,7 @@
     "javascript-state-machine": "^3.0.1",
     "jsfeat": "0.0.8",
     "lodash": "^4.17.4",
-    "mathjs": "^3.16.3",
+    "mathjs": "^3.20.2",
     "mkdirp": "^0.5.1",
     "mousetrap": "^1.6.1",
     "node-addon-api": "^0.6.3",
